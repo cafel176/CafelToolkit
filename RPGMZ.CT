@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="42">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"突破事件页20上限"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"RPGMZ.dat"+007722F0</Address>
+      <Offsets>
+        <Offset>F80</Offset>
+        <Offset>10</Offset>
+        <Offset>28</Offset>
+        <Offset>88</Offset>
+        <Offset>10</Offset>
+        <Offset>300</Offset>
+        <Offset>30</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
