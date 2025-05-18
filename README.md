@@ -35,7 +35,7 @@ QQ群：***792888538***   欢迎反馈遇到的问题和希望支持的功能
 
 <br/>
 
-视频教程：
+视频教程：https://www.bilibili.com/video/BV1i4JTz2EX8
 
 <br/>
 
